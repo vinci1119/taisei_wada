@@ -1,5 +1,7 @@
 
 .wrapper {
+
+.wrapper {
     width: 100%;
     margin-bottom: 10px;
     padding:2px;
@@ -14,7 +16,8 @@
 h1{
 	color:  #a6d3c8;
 	font-size: 4.2rem;
-	text-align: center;
+    text-align: center;
+    font-family: 'Meiryo UI','Hiragino Kaku Gothic ProN','ヒラギノ角ゴ ProN W3',sans-serif;
       
   }
   rt {
@@ -29,6 +32,7 @@ h1{
     font-size: 18px;/*フォントサイズ*/
     color: #FFF;/*フォントカラー*/
     background: #a6d3c8;/*背景色*/
+    font-family: 'Meiryo UI','Hiragino Kaku Gothic ProN','ヒラギノ角ゴ ProN W3',sans-serif;
   }
   
   .ribbon8:before {
